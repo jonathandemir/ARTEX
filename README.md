@@ -6,13 +6,11 @@
 
 **Autonomous penetration testing that keeps its receipts.**
 
-(upstream: [Autumn-27/ARTEX](https://github.com/Autumn-27), AGPL-3.0)
 
 Self-hosted multi-agent offensive security. A planner explores, workers run real tools,
 and every finding stays bound to the assets and HTTP traffic that prove it.
 
-[![Release](https://img.shields.io/github/v/release/BaaRai/ARTEX?label=release&color=6b34db)](https://github.com/BaaRai/ARTEX/releases)
-[![License](https://img.shields.io/github/license/BaaRai/ARTEX?color=6b34db)](LICENSE)
+
 [![CI](https://github.com/BaaRai/ARTEX/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/BaaRai/ARTEX/actions/workflows/ci.yml)
 [![Go](https://img.shields.io/github/go-mod/go-version/BaaRai/ARTEX?color=6b34db)](go.mod)
 
